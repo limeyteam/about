@@ -6,3 +6,6 @@ TicTac is an easy to learn programming language written in pure Rust and assembl
 
 ### Limechain - Little blockchain test
 Just a little blockchain test, might use TicTac in the future
+
+### MiniShell/YASH
+Shell written in Rust and has bash version
